@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Soy Benjamín Piccagli estudiante de ORT con conocimiento en C#, Interesado en aprender nuevas tecnologías
+Soy Benjamín Piccagli estudiante de ORT, Aprendiendo nuevas tecnologías
 
 
 - 🌱 Actualmente aprendiendo Java Script, Python, Node.js, express.js, postgres
