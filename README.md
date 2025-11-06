@@ -4,8 +4,8 @@
 Soy Benjamín Piccagli estudiante de ORT, Aprendiendo nuevas tecnologías
 
 
-- 🌱 Actualmente aprendiendo Java Script, Python, Node.js, express.js, postgres
-- ⚡ Trabajando en [SignAI](https://github.com/BenjaPicca/SignAI-WEB), como back-end de la web.
+- 🌱 Actualmente aprendiendo Java Script, Node.js, express.js, postgres
+- ⚡ Trabajando en [SignAI](https://github.com/BenjaPicca/SignAI-WEB), como back-end de la app.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
